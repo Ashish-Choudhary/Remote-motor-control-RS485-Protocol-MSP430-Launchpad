@@ -14,8 +14,18 @@ The Software is written in both **C sharp (C#) and Python** so that they can be 
 
 <a href = "http://xanthium.in/remotely-controlling-dc-motors-using-rs485-protocol"> **Full Tutorial can be found here**</a> 
 
+##Hardware 
 
+<img src = "http://www.xanthium.in/sites/default/files/site-images/product-page/usb_to_rs485_converter_250px.jpg" />
+- USB2SERIAL
+- An easy to use USB to RS485/RS232/Serial converter that is used to add a RS485 to the Linux or Windows PC .More Details
+
+<img src = "http://www.xanthium.in/sites/default/files/site-images/product-page/Robot_shield_msp430_launchpad_250px.jpg" />
+- Robot Shield 
+- A booster Pack for MSP430 Launchpad that can be used for controlling DC motors as well a providing RS485 communication.More details 
 ##Software
+
+<a href = "http://xanthium.in/cross-platform-master-control-software-rs485-communication"> **Details regarding software can be found here **</a> 
 
 Cross platform control software is written in Python and C# and can run on both Linux and Windows.
 
